@@ -1,6 +1,6 @@
 {
   "name": "analisisco2",
-  "version": "0.1.0",
+  "homepage": "http://www.juancarlosmacias.es/co2/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

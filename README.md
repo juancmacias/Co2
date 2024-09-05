@@ -8,9 +8,10 @@ Aquí dejo alguno enlace para el analisis tanto de la huella de carbono como otr
 - [Sustainable Web Design](https://sustainablewebdesign.org/)
 - [Green Web Fundation](https://www.thegreenwebfoundation.org/)
 
-Realice un curso en Inco Academy para certificarme como `Green digitl Skills`.
+Realice un curso en Inco Academy para certificarme como `Green Digital Skills`.
 Esto me ha preparado para desarrollar soluciones teniendo siempre en cuenta su huella de carbono.
 
+<img src="https://github.com/juancmacias/Co2/blob/bfdf0e32b120592595290d328be9e59e218e33c8/public/Captura%20de%20pantalla%202023-06-07%20141515.jpg" alt="Green Digital Skills" >
 ### ¿Descargarme la solución?
 
 Sientete libre de descargar e instalar esta solucion inclusive de modificar y si te apetece puede referenciame a traves de esta enlace:

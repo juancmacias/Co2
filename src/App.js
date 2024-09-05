@@ -105,7 +105,7 @@ function App() {
                 var formattedDate = format(date,  "dd-MM-yyyy")
                 var image = ''
                 if (elemento.result === "true"){
-                  image = <img src='../ok.png' alt='Green hosting' title='Green hosting' />
+                  image = <img src='./ok.png' alt='Green hosting' title='Green hosting' />
                 }else{
                   image = ''
                 }
