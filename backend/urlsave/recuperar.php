@@ -1,9 +1,6 @@
 <?php
-
-    header('Content-Type: application/json');
-
+header('Content-Type: application/json');
 
 $inp = file_get_contents('urls.json');
 
-    echo $inp;
-?>
+echo $inp;

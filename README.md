@@ -2,7 +2,19 @@
 
 Este proyecto esta realizado con [Create React App](https://es.legacy.reactjs.org/docs/create-a-new-react-app.html) `FrontEnd`. Los datos evaluados se guardan en un archivo .json para mostrarse posteriormente, por lo tanto necesita de un `backend` donde se gestione esta inforación he usado [php](https://www.php.net/).
 
-Esta solución siver para evaluar tu dominio web ejemplo: `gooble.es`, si insertamos la url en la caja y le damos a comproborar no dira mediante un icono si esta alojado en un servidor verde.
+Ejemplo .json:
+
+`
+[
+  {
+    "url": "juancarlosmacias.es",
+    "result": "false",
+    "fecha": "Wed Sep 04 2024 21:12:09 GMT+0200 (hora de verano de Europa central)"
+  }
+]
+`
+
+Esta solución evalua tu dominio web ejemplo: `gooble.es`, si insertamos la url en la caja y le damos a comproborar no dira mediante un icono si esta alojado en un servidor verde.
 Utilizo el script `@tgwf/co2` de uso libre.
 Aquí dejo alguno enlace para el analisis tanto de la huella de carbono como otras variales:
 - [Sustainable Web Design](https://sustainablewebdesign.org/)
