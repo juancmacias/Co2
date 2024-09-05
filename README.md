@@ -1,6 +1,6 @@
 # ¿Comprobar si tu dominio está alojado en un servidor ecológico?
 
-Este proyecto esta realizado con [Create React App](https://es.legacy.reactjs.org/docs/create-a-new-react-app.html). Los datos enviados para ser evaluados se guardan en un archivo .json para mostrarse posteriormente, por lo tanto necesita de un backend donde se gestione esta inforación.
+Este proyecto esta realizado con [Create React App](https://es.legacy.reactjs.org/docs/create-a-new-react-app.html) `FrontEnd`. Los datos evaluados se guardan en un archivo .json para mostrarse posteriormente, por lo tanto necesita de un `backend` donde se gestione esta inforación he usado [php](https://www.php.net/).
 
 Esta solución siver para evaluar tu dominio web ejemplo: `gooble.es`, si insertamos la url en la caja y le damos a comproborar no dira mediante un icono si esta alojado en un servidor verde.
 Utilizo el script `@tgwf/co2` de uso libre.
