@@ -1,6 +1,6 @@
 {
   "name": "analisisco2",
-  "homepage": "http://www.juancarlosmacias.es/co2/",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -11,6 +11,7 @@
     "date-fns": "^3.6.0",
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.4",
+    "react-cookie-consent": "^9.0.0",
     "react-dom": "^18.3.1",
     "react-ga4": "^2.1.0",
     "react-scripts": "5.0.1",
