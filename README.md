@@ -14,7 +14,7 @@ Ejemplo .json:
 ]
 `
 
-Esta solución evalua tu dominio web ejemplo: `gooble.es`, si insertamos la url en la caja y le damos a comproborar no dira mediante un icono si esta alojado en un servidor verde.
+Esta solución evalua tu dominio web ejemplo: `google.es`, si insertamos la url en la caja y le damos a comproborar no dira mediante un icono si esta alojado en un servidor verde.
 Utilizo el script `@tgwf/co2` de uso libre.
 Aquí dejo alguno enlace para el analisis tanto de la huella de carbono como otras variales:
 - [Sustainable Web Design](https://sustainablewebdesign.org/)
