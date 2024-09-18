@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from 'react'
-import CookieConsent, { Cookies } from "react-cookie-consent"
+import CookieConsent from "react-cookie-consent"
 import { urlApi } from './Services/urls'
 import './App.css'
 import { hosting } from "@tgwf/co2"
